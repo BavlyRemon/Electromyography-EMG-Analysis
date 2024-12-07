@@ -1,0 +1,23 @@
+Domain,Channel,Best K,Accuracy (%)
+Time Domain,Channel_1,2,58.61801993612698
+Time Domain,Channel_2,2,51.11777799283848
+Time Domain,Channel_3,1,51.6597309590632
+Time Domain,Channel_4,2,49.90806155037259
+Time Domain,Channel_5,2,49.67579599341914
+Time Domain,Channel_6,2,50.53711410045485
+Time Domain,Channel_7,1,51.243588502854934
+Time Domain,Channel_8,1,49.2306203425917
+Time Domain,Channel_9,2,50.120971644246595
+Time Domain,Channel_10,2,50.64356914739185
+Time Domain,All Channels Combined,1,71.93457853479146
+Frequency Domain,Channel_1,2,61.29281981807625
+Frequency Domain,Channel_2,2,49.71937294368105
+Frequency Domain,Channel_3,1,58.428488484613894
+Frequency Domain,Channel_4,1,55.31256047996903
+Frequency Domain,Channel_5,2,56.028643313334626
+Frequency Domain,Channel_6,2,55.44803561060577
+Frequency Domain,Channel_7,2,58.738145926069286
+Frequency Domain,Channel_8,2,56.08670408360751
+Frequency Domain,Channel_9,1,55.56415715115154
+Frequency Domain,Channel_10,2,60.28643313334624
+Frequency Domain,All Channels Combined,1,88.38784594542287
